@@ -1,4 +1,4 @@
-1. fast-forward merge : 기능 추가/수정 시 사용하는 merge 방법
+1. fast-forward merge : 처음 기능 추가/수정 시 사용하는 merge 방법
 1-1) hj 브랜치 생성 후 fast-forward.txt에 commit 생성
 1-2) master 브랜치에서 fast-forward merge 실행
 
