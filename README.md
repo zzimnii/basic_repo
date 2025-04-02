@@ -1,1 +1,1 @@
-Git & GitHub 실습
+Git & GitHub 첫실습
