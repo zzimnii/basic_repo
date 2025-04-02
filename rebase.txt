@@ -1,2 +1,7 @@
 rebase merge
+<<<<<<< HEAD
 파일 수정합니당
+=======
+
+rebase테스트1
+>>>>>>> 0c5e653 (rebase 브랜치 1)
