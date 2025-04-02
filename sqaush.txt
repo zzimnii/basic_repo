@@ -1,1 +1,6 @@
-squash merge
+squash merge..
+
+#자잘한 수정 1
+
+#자잘한 수정 2 
+
