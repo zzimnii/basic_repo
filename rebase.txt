@@ -4,4 +4,9 @@ rebase merge
 =======
 
 rebase테스트1
+<<<<<<< HEAD
 >>>>>>> 0c5e653 (rebase 브랜치 1)
+=======
+
+rebase 테스트 2
+>>>>>>> db93139 (rebase 브랜치 2)
