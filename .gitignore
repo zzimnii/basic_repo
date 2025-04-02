@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 debian/files
 debian/*.substvars
 debian/*.debhelper.log
 debian/*/*
+=======
+git ignore 알아보기
+>>>>>>> 0f70c51fd84d2f8734514e1050deca99b69d005c
